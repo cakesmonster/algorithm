@@ -14,7 +14,7 @@ package com.cakemonster.algorithm.dynamicprogram.backpack;
  * @author cakemonster
  * @date 2023/6/18
  */
-public class ZeroOneBackpack {
+public class ZeroOneBackpack implements Backpack {
 
     /**
      * 1. 背包可装物品总重量的最大值是多少
